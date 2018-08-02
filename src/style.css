@@ -1,3 +1,28 @@
 .alert-error {
     color: red;
 }
+ .header {
+    background-color:#3498DB ;
+    padding-right: 25px;
+    padding-left: 25px;
+    display: flex;
+    margin: 35px;
+    flex-wrap: wrap;
+    color: white;
+    font-weight: bold;
+}
+ select {
+    margin-left: 18px;
+    margin-top: 10px;
+    width: 250px;
+    height: 32px;
+}
+ #container {
+    display: flex;
+}
+ .left-box {
+    margin-left: 100px;
+ }
+ .right-box {
+    margin-top: 2px;
+    margin-left: 650px;
